@@ -210,9 +210,9 @@ household-power-data-mining/
 
 ## 👤 Auteur
 
-**Mohammed Solilahy**  
-Étudiant en Data Science & Big Data — EMSI  
-Projet académique — Module Data Mining, Semestre 1
+**Mohammed Solimani**  
+Étudiant en  AI Data Science & Big Data — EMSI  
+Projet académique — Module Data Mining
 
 ---
 
